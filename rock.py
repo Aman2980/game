@@ -61,3 +61,4 @@ while True:
     if ans == 'n' or ans == 'N':
         break
 print("Merci")
+print("bye")
